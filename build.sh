@@ -42,3 +42,4 @@ fi
 #use V=1 for full cmdlines of build
 make all -j $MAKEOPTS
 make checkprogs -j $MAKEOPTS
+make check
